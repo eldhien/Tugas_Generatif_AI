@@ -60,14 +60,14 @@ def kirim_prompt_dengan_retry(client, models, messages, max_retry=3):
         "Coba lagi beberapa saat, ganti model, atau gunakan API key BYOK."
     )
 
-# Dummy tarif model premium per 1 juta token (USD)
-HARGA_INPUT_PER_1M_USD = 1.25
-HARGA_OUTPUT_PER_1M_USD = 5.00
+#tarif model premium per 1 juta token (USD) model x-ai/grok-4.20-multi-agent-beta
+HARGA_INPUT_PER_1M_USD = 2.00
+HARGA_OUTPUT_PER_1M_USD = 6.00
 
 # Dummy kurs USD ke IDR
 KURS_USD_KE_IDR = 16000
 
-teks_prompt = "Bagaimana AI dapat membantu meningkatkan efisiensi dalam bidang kesehatan? Jelaskan secara singkat."
+teks_prompt = "belajar bahasa inggrismulai dari mana dulu? Jelaskan secara singkat."
 
 daftar_model = [
     "openai/gpt-oss-20b:free",

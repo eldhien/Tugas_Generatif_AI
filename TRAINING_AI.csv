@@ -1,5 +1,5 @@
-DATA TRAINING GENERATIF AI,,,,,
-NO,PROMTING,OUTPUT,TOKEN INPUT,TOKEN OUTPUT,TOTAL TOKEN
+DATA TRAINING GENERATIF AI,,,,,,,,,,,
+NO,PROMTING,OUTPUT,TOKEN INPUT,TOKEN OUTPUT,TOTAL TOKEN,BIAYA INPUT USD,BIAYA OUTPUT USD,TOTAL BIAYA USD,BIAYA INPUT IDR,BIAYA OUTPUT IDR,TOTAL BIAYA IDR
 2,Apa manfaat penggunaan AI dalam bidang pendidikan?,"**Manfaat Penggunaan AI dalam Bidang Pendidikan**
 
 | No. | Manfaat | Penjelasan Singkat | Contoh Praktis |
@@ -46,7 +46,7 @@ NO,PROMTING,OUTPUT,TOKEN INPUT,TOKEN OUTPUT,TOTAL TOKEN
 
 Penggunaan AI dalam pendidikan membawa revolusi dalam cara kita mengajar dan belajar. Dengan personalisasi, efisiensi, dan analisis data yang mendalam, AI dapat meningkatkan kualitas pendidikan, membuatnya lebih inklusif, dan menyiapkan siswa untuk tantangan dunia digital. Namun, keberhasilan implementasi memerlukan kebijakan yang bijaksana, pelatihan guru, dan perhatian terhadap etika serta privasi.  
 
-> **Saran Praktis**: Mulailah dengan pilot program kecil (misalnya chatbot penjawab pertanyaan atau sistem grading otomatis), evaluasi hasilnya, dan kembangkan secara bertahap sambil melibatkan semua pemangku kepentingan (guru, siswa, orang tua, dan IT).",77,1253,1330
+> **Saran Praktis**: Mulailah dengan pilot program kecil (misalnya chatbot penjawab pertanyaan atau sistem grading otomatis), evaluasi hasilnya, dan kembangkan secara bertahap sambil melibatkan semua pemangku kepentingan (guru, siswa, orang tua, dan IT).",77,1253,1330,,,,,,
 3,Bagaimana AI dapat membantu meningkatkan efisiensi dalam bidang kesehatan? Jelaskan secara singkat.,"AI dapat meningkatkan efisiensi di bidang kesehatan melalui beberapa cara utama:
 
 1. **Diagnostik cepat dan akurat** – Algoritma pembelajaran mesin menganalisis citra medis (CT, MRI, X‑ray) atau data laboratorium dalam hitungan detik, membantu dokter membuat keputusan lebih cepat dan mengurangi kesalahan.
@@ -59,7 +59,7 @@ Penggunaan AI dalam pendidikan membawa revolusi dalam cara kita mengajar dan bel
 
 5. **Pengelolaan sumber daya** – Sistem AI memantau penggunaan peralatan, persediaan obat, dan kapasitas rumah sakit, sehingga alokasi sumber daya menjadi lebih optimal.
 
-Dengan mengintegrasikan teknologi ini, rumah sakit dapat menghemat waktu, menurunkan biaya, dan meningkatkan kualitas layanan kepada pasien.",88,356,444
+Dengan mengintegrasikan teknologi ini, rumah sakit dapat menghemat waktu, menurunkan biaya, dan meningkatkan kualitas layanan kepada pasien.",88,356,444,,,,,,
 4,Bagaimana AI dapat membantu meningkatkan efisiensi dalam bidang kesehatan? Jelaskan secara singkat.,"AI dapat meningkatkan efisiensi di bidang kesehatan melalui beberapa cara utama:
 
 1. **Diagnostik cepat dan akurat** – Algoritma pembelajaran mesin menganalisis citra medis (CT, MRI, X‑ray) atau data laboratorium lebih cepat daripada manusia, membantu dokter membuat keputusan lebih tepat waktu.
@@ -74,4 +74,51 @@ Dengan mengintegrasikan teknologi ini, rumah sakit dapat menghemat waktu, menuru
 
 6. **Monitoring pasien jarak jauh** – Wearable dan sensor IoT dikombinasikan dengan AI memantau vital signs secara real‑time, memberi peringatan dini jika terjadi perubahan kondisi kritis.
 
-Dengan menggabungkan keempat aspek ini, AI membantu menghemat waktu, menurunkan biaya, dan meningkatkan kualitas perawatan bagi pasien.",88,418,506,0.00011000,0.00209000,0.00220000,1.76,33.44,35.20
+Dengan menggabungkan keempat aspek ini, AI membantu menghemat waktu, menurunkan biaya, dan meningkatkan kualitas perawatan bagi pasien.",88,418,506,$0.000110,$0.002090,$0.002200,Rp 1.76,Rp 33.44,Rp 35.20
+5,apa dampak penggunaan AI dalam bidang pendidikan? Jelaskan secara singkat.,"Penggunaan AI di bidang pendidikan membawa dampak yang cukup signifikan, baik positif maupun negatif:
+
+1. **Personalisasi Pembelajaran** – AI dapat menyesuaikan materi, kecepatan, dan gaya belajar bagi setiap siswa, sehingga meningkatkan pemahaman dan motivasi.
+2. **Efisiensi Administrasi** – Otomatisasi tugas administratif (penilaian, jadwal, pelaporan) menghemat waktu guru dan memfokuskan mereka pada interaksi langsung dengan siswa.
+3. **Aksesibilitas** – Alat AI (misalnya, penerjemah otomatis, tutor virtual) membantu siswa dengan kebutuhan khusus atau yang berada di daerah terpencil.
+4. **Risiko Ketergantungan & Privasi** – Ketergantungan pada data digital dapat menimbulkan masalah privasi, serta risiko ketidaksetaraan jika akses teknologi tidak merata.
+
+Secara keseluruhan, AI berpotensi meningkatkan kualitas dan efisiensi pendidikan, namun perlu kebijakan dan infrastruktur yang mendukung agar manfaatnya dapat dirasakan secara adil.",84,287,371,$0.000105,$0.001435,$0.001540,Rp 1.68,Rp 22.96,Rp 24.64
+6,menurutmu apakah arti dari pendidikan? Jelaskan secara singkat.,"Pendidikan adalah proses sistematis yang bertujuan mengembangkan pengetahuan, keterampilan, nilai, dan sikap seseorang agar dapat berkontribusi secara positif dalam kehidupan pribadi, sosial, dan profesional. Ia melibatkan pembelajaran formal maupun informal, serta interaksi dengan lingkungan dan budaya.",83,112,195,$0.000166,$0.000672,$0.000838,Rp 2.66,Rp 10.75,Rp 13.41
+7,dalam proses belajar sebuah ilmu baru apa yang perlu saya siapakan terlebih dahulu? Jelaskan secara singkat.,"**Persiapan Awal untuk Belajar Ilmu Baru**
+
+| Langkah | Apa yang harus dilakukan | Mengapa penting |
+|---------|--------------------------|-----------------|
+| 1. **Tentukan tujuan** | Tuliskan apa yang ingin Anda capai (mis. “menguasai dasar statistik”). | Memberi arah dan motivasi. |
+| 2. **Kenali tingkat pengetahuan** | Lakukan tes atau evaluasi singkat untuk menilai pemahaman awal. | Menentukan titik mulai dan materi yang perlu dikuasai. |
+| 3. **Kumpulkan sumber belajar** | Buku, artikel, video, kursus online, atau mentor. | Memastikan akses materi yang relevan dan berkualitas. |
+| 4. **Buat rencana belajar** | Jadwalkan waktu, tetapkan milestone, dan pilih metode (baca, praktik, diskusi). | Membantu disiplin dan memantau kemajuan. |
+| 5. **Siapkan lingkungan belajar** | Tempat tenang, alat tulis, perangkat (komputer, software), dan waktu bebas gangguan. | Mengoptimalkan konsentrasi dan produktivitas. |
+| 6. **Siapkan alat evaluasi** | Catatan, kuis, proyek kecil, atau ujian diri. | Memastikan pemahaman dan memperbaiki kelemahan. |
+
+**Singkatnya:**  
+Mulailah dengan menetapkan tujuan, menilai pengetahuan awal, mengumpulkan sumber, merencanakan jadwal, menyiapkan lingkungan, dan menyiapkan cara evaluasi. Dengan persiapan ini, proses belajar menjadi lebih terarah dan efektif.",91,445,536,$0.000182,$0.002670,$0.002852,Rp 2.91,Rp 42.72,Rp 45.63
+8,belajar bahasa inggrismulai dari mana dulu? Jelaskan secara singkat.,"**Mulai belajar bahasa Inggris dari mana?**  
+Berikut langkah‑langkah singkat yang bisa kamu ikuti:
+
+| Langkah | Apa yang dilakukan | Tips singkat |
+|---------|--------------------|--------------|
+| 1. **Pahami alfabet & pengucapan** | Pelajari huruf, bunyi vokal/konsonan, dan aturan dasar IPA. | Gunakan video YouTube “English pronunciation” atau aplikasi *Sounds: The Pronunciation App*. |
+| 2. **Belajar kosakata dasar** | Fokus pada 200‑300 kata yang sering dipakai (kata kerja, kata benda, kata sifat). | Buat flashcard (Anki, Quizlet) dan uji diri setiap hari. |
+| 3. **Kenali struktur kalimat sederhana** | Pelajari pola *S + V + O* (Subject‑Verb‑Object) dan kalimat tanya/negatif. | Latihan menulis kalimat pendek tentang diri sendiri. |
+| 4. **Praktek mendengarkan** | Dengarkan podcast atau lagu bahasa Inggris dengan subtitle. | Mulai dengan “ESL Podcast” atau “EnglishClass101” (level beginner). |
+| 5. **Berbicara** | Temukan partner bahasa (tukar bahasa, tutor online, atau grup belajar). | Mulai dengan salam, perkenalan, dan pertanyaan sederhana. |
+| 6. **Baca & tulis** | Bacalah artikel pendek atau cerita anak, lalu tulis ringkasan singkat. | Gunakan *News in Levels* atau *Graded Readers*. |
+| 7. **Evaluasi & sesuaikan** | Setiap minggu, tinjau apa yang sudah dikuasai dan apa yang masih sulit. | Buat catatan “kata/kalimat yang belum lancar” dan ulangi. |
+
+**Sumber belajar cepat:**
+- **Aplikasi:** Duolingo, Babbel, Memrise (kosakata), *Elsa Speak* (pronunciation).  
+- **Video:** *EnglishAddict with Mr. Duncan*, *Rachel’s English* (pronunciation).  
+- **Podcast:** *Coffee Break English*, *ESL Pod*.  
+- **Buku:** *English Grammar in Use* (Raymond Murphy) – bagian dasar.  
+
+**Tips tambahan:**
+- **Konsistensi**: 15–20 menit setiap hari lebih baik daripada 2 jam sekali‑sekali.  
+- **Immersi**: Ganti bahasa di ponsel ke bahasa Inggris, dengarkan musik, tonton film tanpa subtitle.  
+- **Catat**: Simpan jurnal harian singkat dalam bahasa Inggris, meski hanya 3‑5 kalimat.
+
+Mulailah dari langkah‑langkah di atas, dan sesuaikan ritme belajar dengan waktu serta minatmu. Selamat belajar!",86,697,783,0.00017200,0.00418200,0.00435400,2.75,66.91,69.66
